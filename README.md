@@ -4,14 +4,15 @@ It is a automated tool which focuses on the matching the job description with th
 ## 📸 Screenshots
 
 ### 👋 Welcome Page
-![Welcome](assets/welcome.png)
+![Welcome](assets/welcome.jpg)
 
 ### 🔐 Login Page
-![Login](assets/login.png)
+![Login](assets/login.jpg)
 
 ### 🏠 Home Page
-![Home](assets/home.png)
+![Home](assets/home.jpg)
 
 ### 📄 Resume Analysis Result
 ![Result](assets/result.jpg)
+
 
